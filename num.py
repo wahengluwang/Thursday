@@ -5,4 +5,5 @@ print(addition(38,98))
 def sub(a,b):
     diff=a-b
     return diff
-print(sub(100,98))
+print(sub(100,98
+          
